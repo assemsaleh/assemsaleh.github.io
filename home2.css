@@ -586,6 +586,11 @@ body {
   width: 100%;
   background-size: cover;
 }
+.widthcoolicon1port {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_01.jpg);
+  width: 100%;
+  background-size: cover;
+}
 
 .widthcoolicon2 {
   background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_02.jpg);
