@@ -1,0 +1,177 @@
+.textc {
+  text-align: center;
+  margin: 0px;
+}
+
+.paddport3f {
+  padding: 8px 8px 8px 0px;
+}
+
+.paddport3fr {
+  padding: 8px 0px 8px 8px;
+}
+.paddport3fm {
+  padding: 8px;
+}
+
+.padport4 {
+  padding: 8px;
+}
+
+.bgportstyle {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project01.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+
+.bg2s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project02.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+.bg3s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project03.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+
+.bg4s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project04.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+.bg5s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project05.jpg);
+  background-size: cover;
+  width: 100%;
+  background-position: center;
+  transition: 0.5s;
+}
+.bg6s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project06.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+.bg7s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project07.jpg);
+  background-size: cover;
+  width: 100%;
+  background-position: center;
+  transition: 0.5s;
+}
+
+.bg8s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project08.jpg);
+  background-size: cover;
+  width: 100%;
+  background-position: center;
+  transition: 0.5s;
+}
+.bg9s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project09.jpg);
+  background-size: cover;
+  width: 100%;
+  background-position: center top;
+  transition: 0.5s;
+}
+
+.bg10s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project10.jpg);
+  background-size: cover;
+  width: 100%;
+
+  transition: 0.5s;
+}
+.bg11s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project11.jpg);
+  background-size: cover;
+  width: 100%;
+  background-position: center;
+  transition: 0.5s;
+}
+.bg12s2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/three_columns/tc_project12.jpg);
+  background-size: cover;
+  background-position: center top;
+  width: 100%;
+
+  transition: 0.5s;
+}
+
+.bgportstyle:hover .blues2 {
+  background: rgba(33, 61, 220, 0.767);
+  background: linear-gradient(
+    0deg,
+    rgba(33, 61, 220, 0.753) 13%,
+    rgba(70, 162, 242, 0.815) 100%
+  );
+  width: 100%;
+}
+
+.bgportstyle:hover .linkports2 {
+  color: white;
+}
+
+.fhports2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0);
+  transition: 0.5s;
+}
+
+.bgportstyle:hover .fhports2 {
+  border-top: 1px solid white;
+}
+
+.bgportstyle:hover .fpports2 {
+  color: white;
+}
+
+.fpports2 {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0);
+  margin-top: 10px;
+  transition: 0.5s;
+}
+
+.linkports2 {
+  color: rgba(255, 255, 255, 0);
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.linkports2:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.borderils1 {
+  border-top: 1px solid rgb(128, 128, 128);
+  padding: 180px 10px 20px 10px;
+  box-sizing: border-box;
+}
+
+.borderils2 {
+  border-top: 1px solid rgb(128, 128, 128);
+  padding: 500px 10px 20px 10px;
+  box-sizing: border-box;
+}
+
+.borderils3 {
+  border-top: 1px solid rgb(128, 128, 128);
+  padding: 350px 10px 20px 10px;
+  box-sizing: border-box;
+}

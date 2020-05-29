@@ -1,0 +1,701 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.bgh2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/slider/slider_bg02.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.paddh2 {
+  margin-left: -105px;
+}
+
+.paddtph2 {
+  padding-top: 150px;
+  color: white;
+}
+.paddlh2 {
+  padding-left: 90px;
+  box-sizing: border-box;
+}
+
+.mrgbh2 {
+  margin-bottom: 25px;
+}
+
+.btn1h2 {
+  background-color: #2c5bf2;
+  color: white;
+  border: 1px solid #2c5bf2;
+  border-radius: 5px;
+  padding: 10px 35px;
+
+  font-size: 15px;
+}
+
+.btn2h2 {
+  background-color: #2e60f2;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.bg2h2 {
+  text-align: center;
+  padding: 100px 0px;
+  position: relative;
+  overflow: hidden;
+}
+
+.abs1h2 {
+  position: absolute;
+  right: -14px;
+  top: 42px;
+}
+
+.abs2h2 {
+  position: absolute;
+  right: 161px;
+  top: 181px;
+}
+.absd1 {
+  position: absolute;
+  top: 86px;
+  left: 215px;
+}
+.absd2 {
+  position: absolute;
+  top: 95px;
+  left: 494px;
+}
+
+.absd3 {
+  position: absolute;
+  top: 86px;
+  right: 215px;
+}
+
+.h2h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.ph2 {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 26px;
+  color: #677294;
+  margin-bottom: 15px;
+}
+
+.paddigh2 {
+  padding-top: 90px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.mb50 {
+  margin-top: -60px;
+}
+
+@media (max-width: 768px) {
+  .mb50 {
+    margin-top: 0px;
+  }
+}
+
+.bgdr1,
+.bgdr2,
+.bgwp,
+.bgpl,
+.bgch,
+.bgli {
+  transition: 1s;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 7px 61px -11px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 7px 61px -11px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 7px 61px -11px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+}
+.bgdr1 {
+  font-size: 35px;
+  color: #6e40f1;
+}
+.bgdr2 {
+  font-size: 35px;
+  color: #e8583f;
+}
+.bgwp {
+  font-size: 35px;
+  color: #60c32f;
+}
+
+.bgpl {
+  font-size: 35px;
+  color: #29d1bc;
+}
+
+.bgch {
+  font-size: 35px;
+  color: #18a2d0;
+}
+.bgli {
+  font-size: 35px;
+  color: #d98809;
+}
+
+.bgdr1:hover {
+  color: white;
+  background: rgb(116, 68, 255);
+  background: linear-gradient(
+    86deg,
+    rgba(116, 68, 255, 1) 61%,
+    rgba(146, 111, 249, 1) 100%
+  );
+}
+.bgdr2:hover {
+  color: white;
+  background: rgb(231, 86, 62);
+  background: linear-gradient(
+    86deg,
+    rgba(231, 86, 62, 1) 61%,
+    rgba(243, 139, 103, 1) 100%
+  );
+}
+.bgwp:hover {
+  color: white;
+  background: rgb(91, 187, 44);
+  background: linear-gradient(
+    86deg,
+    rgba(91, 187, 44, 1) 61%,
+    rgba(110, 219, 56, 1) 100%
+  );
+}
+
+.bgpl:hover {
+  color: white;
+  background: rgb(20, 183, 163);
+  background: linear-gradient(
+    86deg,
+    rgba(20, 183, 163, 1) 61%,
+    rgba(40, 208, 188, 1) 100%
+  );
+}
+
+.bgch:hover {
+  color: white;
+  background: rgb(31, 171, 217);
+  background: linear-gradient(
+    86deg,
+    rgba(31, 171, 217, 1) 61%,
+    rgba(55, 201, 249, 1) 100%
+  );
+}
+
+.bgli:hover {
+  color: white;
+  background: rgb(224, 144, 20);
+  background: linear-gradient(
+    86deg,
+    rgba(224, 144, 20, 1) 61%,
+    rgba(243, 168, 49, 1) 100%
+  );
+}
+.cirg {
+  width: 70%;
+  padding-top: 29px;
+  box-sizing: border-box;
+}
+
+.ddmb {
+  background: rgb(52, 113, 242);
+  background: linear-gradient(
+    90deg,
+    rgba(52, 113, 242, 1) 0%,
+    rgba(70, 168, 243, 1) 100%
+  );
+}
+
+.bg7h2 {
+  background: rgb(33, 60, 220);
+  background: linear-gradient(
+    0deg,
+    rgba(33, 60, 220, 1) 36%,
+    rgba(70, 161, 242, 1) 100%
+  );
+  position: relative;
+  padding: 100px 50px;
+}
+.paddprice {
+  padding: 8px;
+}
+
+.price {
+  padding: 30px 0px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.fsp {
+  font-size: 36px;
+  font-weight: bold;
+}
+.fsb {
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid gray;
+  padding: 20px 0px;
+}
+
+.drakslide {
+  padding: 40px 60px;
+  box-sizing: border-box;
+}
+
+.green {
+  color: #3ac086;
+  margin-right: 5px;
+  transition: 0.5s;
+}
+
+.bgwh2 {
+  background-color: white;
+  padding: 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-box-shadow: 4px 3px 38px -13px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 3px 38px -13px rgba(0, 0, 0, 0.75);
+  box-shadow: 4px 3px 38px -13px rgba(0, 0, 0, 0.75);
+  transition: 0.5s;
+}
+.bgwh2:hover .fsb {
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid white;
+  padding: 20px 0px;
+}
+
+.bgwh2:hover {
+  color: white;
+
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/pricing_box.png);
+  background-size: cover;
+}
+
+.bgwh2:hover .bggd {
+  background: rgba(33, 61, 220, 0.719);
+  background: linear-gradient(
+    0deg,
+    rgba(33, 61, 220, 0.712) 13%,
+    rgba(70, 162, 242, 0.699) 100%
+  );
+}
+
+.bgwh2:hover .btn3h2 {
+  background-color: white;
+  border: 1px solid white;
+  color: #743efb;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 50%;
+}
+
+.bgwh2:hover .green {
+  color: white;
+}
+
+.bgwh2:hover .sub {
+  color: white;
+}
+
+.bgh2:hover .green {
+  color: white;
+}
+
+.sub {
+  color: #abaaaa;
+  font-size: 30px;
+
+  transition: 0.5s;
+}
+.btnreadmore {
+  padding-bottom: 30px;
+}
+.btn3h2 {
+  background-color: #743efb;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 50%;
+}
+
+.bordertop {
+  border-top: 1px solid grey;
+  padding: 100px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bgexecutive {
+  background-color: rgb(247, 247, 247);
+}
+
+.container4h2 {
+  background-color: rgb(247, 247, 247);
+  padding: 100px 0px;
+  box-sizing: border-box;
+}
+.our {
+  color: #5d58f7;
+  font-size: 18px;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-weight: 800;
+  letter-spacing: 2px;
+  margin-bottom: 5px;
+}
+
+.expert {
+  font-size: 36px;
+
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.viewall {
+  color: white;
+  background-color: #5d58f7;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid #5d58f7;
+  text-align: center;
+  width: 25%;
+}
+
+.viewallrgt {
+  text-align: right;
+  padding-top: 35px;
+}
+
+.team {
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 20px;
+  margin-bottom: 0px;
+}
+.cir1 {
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  padding: 7px 9px 5px 9px;
+  font-size: 14px;
+  color: #4267b2;
+  background-color: white;
+  transition: 0.5s;
+}
+
+.cir1:hover {
+  background-color: #4267b2;
+  color: white;
+  border: 1px solid #4267b2;
+}
+
+.cir2 {
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  padding: 7px 9px 5px 9px;
+  font-size: 14px;
+  color: #1da1f2;
+  background-color: white;
+  transition: 0.5s;
+}
+.cir2:hover {
+  background-color: #1da1f2;
+  color: white;
+  border: 1px solid #1da1f2;
+}
+
+.cir3 {
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  padding: 7px 9px 5px 9px;
+  font-size: 14px;
+  color: #f81cad;
+  background-color: white;
+  transition: 0.5s;
+}
+
+.cir3:hover {
+  background-color: #f81cad;
+  color: white;
+  border: 1px solid #f81cad;
+}
+
+.cir4 {
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  padding: 7px 9px 5px 9px;
+  font-size: 14px;
+  color: #bd081b;
+  background-color: white;
+  transition: 0.5s;
+}
+
+.cir4:hover {
+  background-color: #bd081b;
+  color: white;
+  border: 1px solid #bd081b;
+}
+.social {
+  position: relative;
+  z-index: 10;
+}
+.slide2 {
+  margin-top: -15px;
+}
+
+.brand3 {
+  border-top: 1px solid #dfdfe1;
+  border-bottom: 1px solid #dfdfe1;
+  padding: 35px 0;
+}
+.mrgauto {
+  width: 100%;
+  margin: auto;
+}
+
+.paddcoolicon img {
+  width: 100%;
+}
+.container9 {
+  background-color: #f7f7f7;
+  padding: 30px 0px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.paddquestions {
+  padding: 100px 60px;
+}
+
+.bgQuestions {
+  background-color: white;
+  padding: 167px 65px;
+  box-sizing: border-box;
+  -webkit-box-shadow: 2px 2px 20px -1px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 2px 20px -1px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 20px -1px rgba(0, 0, 0, 0.4);
+}
+
+.fqh2 {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 25px;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+.inputqh2 {
+  border: none;
+  border-bottom: 1px solid #d9d9d9;
+  width: 100%;
+  padding: 15px 30px;
+  transition: 0.5s;
+  box-sizing: border-box;
+}
+
+.inputqh2:hover {
+  border: none;
+  border-bottom: 1px solid #5d58f7;
+  width: 100%;
+  padding: 15px 30px;
+  transition: 0.5s;
+  box-sizing: border-box;
+}
+
+.btnsendh2 {
+  border: 1px solid #5d58f7;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #5d58f7;
+  font-size: 15px;
+  font-weight: bold;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  padding: 11px 16px;
+}
+
+.ojc {
+  font-size: 15px;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+.nmbojc {
+  color: #5d58f7;
+  margin-top: 4px;
+  display: inline-block;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+.mb30 {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.abssocilh2 {
+  position: absolute;
+
+  top: 24%;
+  color: #93939a;
+  font-size: 18px;
+}
+
+.bgrocket {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/counter_bg01.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 95px;
+  padding-bottom: 65px;
+  color: white;
+}
+
+.padcoolicon {
+  padding: 10px;
+}
+.widthcoolicon1 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_01.jpg);
+  width: 100%;
+  background-size: cover;
+}
+
+.widthcoolicon2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_02.jpg);
+  width: 100%;
+  background-size: cover;
+}
+
+.widthcoolicon3 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_03.jpg);
+  width: 100%;
+  background-size: cover;
+}
+.widthcoolicon4 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_04.jpg);
+  width: 100%;
+  background-size: cover;
+}
+
+.widthcoolicon5 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/project/project_05.jpg);
+  width: 100%;
+  background-size: cover;
+}
+
+.widthcoolicon {
+  position: relative;
+  transition: 1s;
+}
+
+.btncoolicon {
+  text-align: center;
+  padding: 100px 0px;
+  box-sizing: border-box;
+}
+
+.widthcoolicon:hover .illustrationh {
+  color: white;
+  border-top: 1px solid white;
+}
+
+.widthcoolicon:hover .illustrationp {
+  color: white;
+}
+
+.illustrationc {
+  text-align: center;
+  padding: 0px 0px 10px 0px;
+  transition: 0.5s;
+}
+
+.illustrationh {
+  border-top: 1px solid rgba(128, 128, 128, 0);
+  font-size: 24px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0);
+  padding-top: 10px;
+  transition: 0.5s;
+}
+
+.illustrationp {
+  font-size: 15px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0);
+  transition: 0.5s;
+}
+
+.widthcoolicon:hover .btncis {
+  color: white;
+  padding-top: 50px;
+  box-sizing: border-box;
+}
+
+.btncis {
+  color: rgba(255, 255, 255, 0);
+  font-size: 50px;
+  font-weight: normal;
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  transition: 0.5s;
+  position: absolute;
+  right: 36%;
+  top: 10%;
+}
+
+.widthcoolicon:hover .bggradienblue {
+  background: rgba(33, 61, 220, 0.842);
+  background: linear-gradient(
+    0deg,
+    rgba(33, 61, 220, 0.795) 13%,
+    rgba(70, 162, 242, 0.849) 100%
+  );
+}
+
+.count {
+  font-size: 40px;
+  color: #fff;
+  font-weight: 800;
+  line-height: 1;
+  margin-bottom: 5px;
+}
+.container4h2 {
+  background-color: rgb(247, 247, 247);
+  padding: 100px 0px;
+  box-sizing: border-box;
+}
+
+.bg8h2 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/footer_bg02.png);
+  padding: 150px 20px 0px 20px;
+  color: white;
+  background-size: cover;
+  background-color: #f7f7f7;
+}

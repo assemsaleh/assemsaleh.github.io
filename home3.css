@@ -1,0 +1,354 @@
+.bgh3 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/slider/slider_bg03.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.ddmdb {
+  background: rgb(10, 46, 132);
+  background: linear-gradient(
+    90deg,
+    rgba(10, 46, 132, 1) 0%,
+    rgba(70, 168, 243, 1) 100%
+  );
+}
+
+.padd10 {
+  border-bottom: 1px solid #fff3;
+  color: white;
+  font-size: 15px;
+  padding: 15px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mrg0 {
+  margin: 0px;
+}
+
+.txtright {
+  text-align: right;
+  margin-left: 38px;
+}
+
+.spac3 {
+  padding: 0px 5px;
+}
+.a3 {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.a3:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn2h3 {
+  background-color: #2e5ff200;
+  border: 1px solid white;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 30%;
+}
+
+@media (max-width: 576px) {
+  .btn2h3 {
+    width: 180px;
+  }
+}
+
+.container8h3 {
+  background-color: white;
+  padding: 70px 0px;
+  box-sizing: border-box;
+}
+
+.allfeatures {
+  color: white;
+  background-color: #5d58f7;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid #5d58f7;
+  text-align: center;
+  width: 30%;
+}
+
+.explornow {
+  color: white;
+  background-color: #5d58f7;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid #5d58f7;
+  text-align: center;
+  width: 30%;
+  transition: 0.5s;
+}
+@media (max-width: 768px) {
+  .explornow {
+    width: 200px;
+  }
+}
+.explornow:hover {
+  color: white;
+  background-color: #5d58f700;
+  border: 1px solid white;
+}
+
+.bgdexpand {
+  color: white;
+  background: rgb(116, 68, 255);
+  background: linear-gradient(
+    86deg,
+    rgba(116, 68, 255, 1) 61%,
+    rgba(146, 111, 249, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.bgplan {
+  color: white;
+  background: rgb(20, 183, 163);
+  background: linear-gradient(
+    86deg,
+    rgba(20, 183, 163, 1) 61%,
+    rgba(40, 208, 188, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.mrb30px {
+  margin-bottom: 30px;
+}
+
+.bgdropboxo {
+  color: white;
+  background: rgb(231, 86, 62);
+  background: linear-gradient(
+    86deg,
+    rgba(231, 86, 62, 1) 61%,
+    rgba(243, 139, 103, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.bgwpforms {
+  color: white;
+  background: rgb(91, 187, 44);
+  background: linear-gradient(
+    86deg,
+    rgba(91, 187, 44, 1) 61%,
+    rgba(110, 219, 56, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.bgchart {
+  color: white;
+  background: rgb(31, 171, 217);
+  background: linear-gradient(
+    86deg,
+    rgba(31, 171, 217, 1) 61%,
+    rgba(55, 201, 249, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.bglightbulb {
+  color: white;
+  background: rgb(224, 144, 20);
+  background: linear-gradient(
+    86deg,
+    rgba(224, 144, 20, 1) 61%,
+    rgba(243, 168, 49, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 40px 3px 20px 3px;
+}
+
+.mrgb1 {
+  transform: translate(0px, 100px);
+}
+
+@media (max-width: 768px) {
+  .mrgb1 {
+    transform: translate(0px, 0px);
+  }
+}
+.mrgb2 {
+  transform: translate(0px, -100px);
+}
+@media (max-width: 768px) {
+  .mrgb2 {
+    transform: translate(0px, 0px);
+  }
+}
+.sizedropbox1 {
+  font-size: 60px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.foh3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.paddt100 {
+  padding-top: 450px;
+}
+
+.pad10 {
+  padding: 10px;
+}
+.pad30 {
+  padding: 30px;
+}
+
+.bgcitys {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/counter_shape.png);
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  background-color: white;
+  width: 100%;
+}
+
+.fntnmbr {
+  font-size: 40px;
+  color: black;
+  font-weight: normal;
+}
+
+.fntward {
+  font-size: 18px;
+  color: black;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgexecutiveh3 {
+  background-color: white;
+}
+.bordertoph3 {
+  padding: 100px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgdigtalmarket {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/cta_bg.jpg);
+  background-size: cover;
+  background-position: center 31.58%;
+}
+
+.opctyblack {
+  background-color: rgba(0, 0, 0, 0.658);
+  padding: 120px 0px;
+}
+
+.fontdigal {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.mrgt5 {
+  margin-top: 7px;
+}
+
+@media (max-width: 1200px) {
+  .mrgt5 {
+    margin-top: 0px;
+  }
+}
+
+.bg8h3 {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/footer_bg03.png);
+  padding: 150px 20px 0px 20px;
+  color: white;
+  background-size: cover;
+  background-color: #f7f7f7;
+}
+
+.play {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  font-size: 60px;
+  box-sizing: border-box;
+}
+.play1 {
+  transform: translate(0px, -321px);
+  text-align: center;
+}
+@media (max-width: 1200px) {
+  .play1 {
+    transform: translate(-200px, -321px);
+  }
+}
+
+@media (max-width: 992px) {
+  .play1 {
+    transform: translate(-90px, -321px);
+  }
+}
+
+@media (max-width: 768px) {
+  .play1 {
+    transform: translate(-20px, -315px);
+  }
+}
+
+@media (max-width: 465px) {
+  .play1 {
+    transform: translate(-10px, -260px);
+  }
+}
+
+@media (max-width: 350px) {
+  .play1 {
+    transform: translate(-10px, -230px);
+  }
+}
+.padd100 {
+  padding: 100px;
+}
+
+@media (max-width: 992px) {
+  .paddt100 {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 992px) {
+  .paddiconlft {
+    padding-left: 118px;
+    box-sizing: border-box;
+  }
+}
+
+@media (max-width: 768px) {
+  .paddiconlft {
+    padding-left: 0;
+    box-sizing: border-box;
+  }
+}
+
+@media (max-width: 992px) {
+  .picwidth1 {
+    width: 250%;
+  }
+}

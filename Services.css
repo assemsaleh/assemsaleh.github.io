@@ -1,0 +1,42 @@
+.bgServices {
+  background-image: url(http://pluginspoint.com/demo/html/digee/img/bg/breadcrumb_bg.jpg);
+
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.paddtpservices {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  border-left: 5px solid white;
+}
+
+.detailsservices {
+  padding: 120px 60px;
+  box-sizing: border-box;
+}
+
+.f1serv {
+  font-size: 40px;
+  margin: 0px;
+}
+
+.f2serv {
+  font-size: 20px;
+  margin: 0px;
+  padding-left: 5px;
+}
+
+.homeserv {
+  color: white;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.homeserv:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: white;
+}
